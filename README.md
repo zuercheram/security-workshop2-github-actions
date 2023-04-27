@@ -51,7 +51,7 @@ endstep0-->
   TBD-step-1-notes.
 -->
 
-<details id=1 open>
+<details id=1>
 <summary><h2>Step 1: Configure OIDC in Azure</h2></summary>
 
 _Welcome to "GitHub Actions workflow with OIDC based authentication against Azure"! :wave:_
@@ -86,7 +86,7 @@ In this step you'll configure OIDC in your Azure tenant.
   Define terms and link to docs.github.com.
 -->
 
-<details id=2>
+<details id=2 open>
 <summary><h2>Step 2: Create workflow</h2></summary>
 
 _You did configure OIDC in Azure and created a branch! :tada:_
