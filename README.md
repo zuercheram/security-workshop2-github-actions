@@ -86,7 +86,7 @@ In this step you'll configure OIDC in your Azure tenant.
   Define terms and link to docs.github.com.
 -->
 
-<details id=2 open>
+<details id=2>
 <summary><h2>Step 2: Create workflow</h2></summary>
 
 _You did configure OIDC in Azure and created a branch! :tada:_
@@ -145,7 +145,7 @@ jobs:
   Review what we learned, ask for feedback, provide next steps.
 -->
 
-<details id=X>
+<details id=X open>
 <summary><h2>Finish</h2></summary>
 
 _Congratulations friend, you've completed this course!_
